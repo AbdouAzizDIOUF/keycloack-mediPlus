@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="main8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-exporter-jaeger-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-sdk-trace-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-sdk-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-sdk-common-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-api-metrics-1.9.1-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-exporter-otlp-trace-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-exporter-otlp-common-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-semconv-1.9.1-alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

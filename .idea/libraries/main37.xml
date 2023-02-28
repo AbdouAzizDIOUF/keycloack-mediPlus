@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="main37">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/grpc/main/grpc-stub-1.38.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/grpc/main/grpc-core-1.38.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/grpc/main/grpc-okhttp-1.38.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/grpc/main/grpc-context-1.38.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/grpc/main/grpc-api-1.38.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/grpc/main/grpc-protobuf-lite-1.38.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/grpc/main/grpc-protobuf-1.38.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

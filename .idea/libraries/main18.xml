@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main18">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/infinispan/persistence/jdbc/main/infinispan-cachestore-jdbc-13.0.8.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/infinispan/persistence/jdbc/main/infinispan-cachestore-jdbc-common-13.0.8.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
